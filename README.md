@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aadya Singh</h1>
+<h1 align="center">Hi 👋, I'm Ruby(Aadya) </h1>
 <h3 align="center">Master of Computer Science student specialising in Data Science & AI and Software Engineering</h3>
+<p align="center">Based in Sydney, Australia</p>
 
 <p align="center">
 Building applied AI systems, software projects, and data-driven applications
@@ -23,7 +24,6 @@ Building applied AI systems, software projects, and data-driven applications
 
 - Master of Computer Science student at the University of Sydney
 - Specialising in **Data Science & AI** and **Software Engineering**
-- Building projects across applied AI, retrieval systems, analytics, and software engineering
 
 ### Highlights
 

@@ -27,7 +27,7 @@ Building applied AI systems, software projects, and data-driven applications
 
 ### Highlights
 
-- **GATE 2025 (Data Science & AI)** — 92 percentile nationally
+- **GATE India 2025 (Data Science & AI)** — 92 percentile nationally (AIR 4521)
 - **Kaggle Datasets Expert** — Global Rank ~520
 - **10+ technical articles** published on Analytics Vidhya
 - Working on **applied AI systems**, **retrieval engineering**, and **software projects**

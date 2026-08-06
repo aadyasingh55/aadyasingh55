@@ -2,8 +2,8 @@
 <h3 align="center">Master of Computer Science student specialising in Data Science & AI and Software Engineering</h3>
 <p align="center">Based in Sydney, Australia</p>
 
-<p align="center">
-Building applied AI systems, software projects, and data-driven applications
+<p align="center">d
+Building applied AI systems and ata-driven applications
 </p>
 
 <p align="center">

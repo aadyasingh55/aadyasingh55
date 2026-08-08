@@ -3,7 +3,7 @@
 <p align="center">Based in Sydney, Australia</p>
 
 <p align="center">
-Building applied AI systems and ata-driven applications
+Building applied AI systems and data-driven applications
 </p>
 
 <p align="center">
@@ -15,6 +15,9 @@ Building applied AI systems and ata-driven applications
   </a>
   <a href="https://www.kaggle.com/aadyasingh55">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="https://aadyasingh55.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-8A1538?style=for-the-badge" />
   </a>
 </p>
 
@@ -30,7 +33,7 @@ Building applied AI systems and ata-driven applications
 - **GATE India 2025 (Data Science & AI)** — 92 percentile nationally (AIR 4521)
 - **Kaggle Datasets Expert** — Global Rank ~520
 - **10+ technical articles** published on Analytics Vidhya
-- Working on **applied AI systems**, **retrieval engineering**, and **software projects**
+- Working on **applied AI systems**, **MLOps**, **retrieval engineering**, and **software projects**
 - Exploring **security research / bug bounty style vulnerability reporting** alongside systems work
 
 ### Languages and Tools

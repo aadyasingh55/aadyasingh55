@@ -8,10 +8,6 @@ Building applied AI systems and data-driven applications
 
 
 <p align="center">
-  Building applied AI systems and data-driven applications.
-</p>
-
-<p align="center">
   💼 <a href="https://linkedin.com/in/aadyasingh55">LinkedIn</a> •
   🌍 <a href="https://your-portfolio.com">Portfolio</a> •
   💻 <a href="https://github.com/aadyasingh55">GitHub</a> •

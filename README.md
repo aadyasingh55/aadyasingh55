@@ -6,19 +6,18 @@
 Building applied AI systems and data-driven applications
 </p>
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/aadyasingh55/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.analyticsvidhya.com/blog/author/aadya55/">
-    <img src="https://img.shields.io/badge/Analytics%20Vidhya-222222?style=for-the-badge" />
-  </a>
-  <a href="https://www.kaggle.com/aadyasingh55">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="https://aadyasingh55.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-8A1538?style=for-the-badge" />
-  </a>
+  Building applied AI systems and data-driven applications.
+</p>
+
+<p align="center">
+  💼 <a href="https://linkedin.com/in/aadyasingh55">LinkedIn</a> •
+  🌍 <a href="https://your-portfolio.com">Portfolio</a> •
+  💻 <a href="https://github.com/aadyasingh55">GitHub</a> •
+  🎓 <a href="https://github.sydney.edu.au/asin0919">University GitHub</a> •
+  📊 <a href="https://www.kaggle.com/aadyasingh55">Kaggle</a> •
+  ✍️ <a href="https://www.analyticsvidhya.com/blog/author/aadyasingh55">Analytics Vidhya</a>
 </p>
 
 ---

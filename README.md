@@ -9,11 +9,11 @@ Building applied AI systems and data-driven applications
 
 <p align="center">
   💼 <a href="https://linkedin.com/in/aadyasingh55">LinkedIn</a> •
-  🌍 <a href="https://your-portfolio.com">Portfolio</a> •
-  💻 <a href="https://github.com/aadyasingh55">GitHub</a> •
-  🎓 <a href="https://github.sydney.edu.au/asin0919">University GitHub</a> •
+  🌍 <a href="https://aadyasingh55.github.io">Portfolio</a> •
   📊 <a href="https://www.kaggle.com/aadyasingh55">Kaggle</a> •
   ✍️ <a href="https://www.analyticsvidhya.com/blog/author/aadyasingh55">Analytics Vidhya</a>
+  🎓 <a href="https://github.sydney.edu.au/asin0919">University GitHub</a> •
+  💻 <a href="https://leetcode.com/u/aadyasingh55/">Leetcode</a> •
 </p>
 
 ---
